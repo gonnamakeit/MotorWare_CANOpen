@@ -1,0 +1,4 @@
+[submodule "lab09a_CANOpen/include/CANopenNode"]
+	path = lab09a_CANOpen/include/CANopenNode
+	url = https://github.com/karu2003/CANopenNode
+	branch = mware
